@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+   flex-direction: row;
+   border: 1px solid black;
+   width: 800px;
+   margin: 20px;
+}
+.img {
+    height: 150px;
+    width: auto;
+}
+ul {
+    list-style-type: none;
+}
